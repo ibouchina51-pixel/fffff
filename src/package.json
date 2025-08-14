@@ -1,0 +1,12 @@
+{
+  "name": "railway-visits",
+  "version": "1.0.0",
+  "description": "Human-like visits with Puppeteer on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
+}
